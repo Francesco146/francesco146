@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/ca/c4/2b/cac42b7e67c0e1e489ed73d06a2f43bd.gif"  />
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/3232dcbe6aac64d3a4a09d6ff8bf3052b584254fcccb58494b191153cca3e556/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f63342f32622f63616334326237653637633065316534383965643733643036613266343362642e676966"  />
+</div>
 
 ###
 
