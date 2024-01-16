@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/3232dcbe6aac64d3a4a09d6ff8bf3052b584254fcccb58494b191153cca3e556/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f63342f32622f63616334326237653637633065316534383965643733643036613266343362642e676966"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
