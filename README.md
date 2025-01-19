@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Francesco and I'm a undergraduate here in UniVR, from Italy</h2>
+<h2 align="left">Hi 👋!</h2>
+<h3 align="left">My name is Francesco and I'm a computer science graduate student at UniVR from Italy. I'm currently studying for a master's degree in security and AI.</h2>
 
 ###
 
